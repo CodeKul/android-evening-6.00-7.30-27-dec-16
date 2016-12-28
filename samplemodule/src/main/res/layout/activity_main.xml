@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.codekul.samplemodule.MainActivity"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btnDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Date" />
+
+    <Button
+        android:id="@+id/btnMillis"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Millis" />
+
+    <Button
+        android:id="@+id/btnSayHi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Say Hi" />
+
+
+    <Button
+        android:id="@+id/btnSayHello"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Say Hello" />
+
+    <TextView
+        android:id="@+id/textDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="40px"/>
+</LinearLayout>
