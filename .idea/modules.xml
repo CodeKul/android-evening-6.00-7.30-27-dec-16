@@ -5,7 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/androlib/androlib.iml" filepath="$PROJECT_DIR$/androlib/androlib.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demoapp/demoapp.iml" filepath="$PROJECT_DIR$/demoapp/demoapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/relativelayout/relativelayout.iml" filepath="$PROJECT_DIR$/relativelayout/relativelayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/samplemodule/samplemodule.iml" filepath="$PROJECT_DIR$/samplemodule/samplemodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weightedlayouts/weightedlayouts.iml" filepath="$PROJECT_DIR$/weightedlayouts/weightedlayouts.iml" />
     </modules>
   </component>
 </project>
