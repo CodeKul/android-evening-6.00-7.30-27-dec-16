@@ -10,11 +10,15 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/androlib" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/compoundviews" />
+            <option value="$PROJECT_DIR$/customviews" />
             <option value="$PROJECT_DIR$/demoapp" />
             <option value="$PROJECT_DIR$/interactivitycommunication" />
+            <option value="$PROJECT_DIR$/listview" />
             <option value="$PROJECT_DIR$/login" />
             <option value="$PROJECT_DIR$/relativelayout" />
             <option value="$PROJECT_DIR$/samplemodule" />
+            <option value="$PROJECT_DIR$/viewanimations" />
             <option value="$PROJECT_DIR$/weightedlayouts" />
           </set>
         </option>

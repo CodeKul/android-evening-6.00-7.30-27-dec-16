@@ -1,1 +1,1 @@
-include ':app', ':samplemodule', ':androlib', ':demoapp', ':relativelayout', ':weightedlayouts', ':login', ':interactivitycommunication'
+include ':app', ':samplemodule', ':androlib', ':demoapp', ':relativelayout', ':weightedlayouts', ':login', ':interactivitycommunication', ':compoundviews', ':customviews', ':viewanimations', ':listview'
