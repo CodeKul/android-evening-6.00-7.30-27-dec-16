@@ -8,6 +8,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/activitylifecycle" />
             <option value="$PROJECT_DIR$/afterupdate" />
             <option value="$PROJECT_DIR$/androlib" />
             <option value="$PROJECT_DIR$/app" />
@@ -19,6 +20,7 @@
             <option value="$PROJECT_DIR$/login" />
             <option value="$PROJECT_DIR$/relativelayout" />
             <option value="$PROJECT_DIR$/samplemodule" />
+            <option value="$PROJECT_DIR$/statemanagement" />
             <option value="$PROJECT_DIR$/viewanimations" />
             <option value="$PROJECT_DIR$/weightedlayouts" />
           </set>
