@@ -12,12 +12,15 @@
       <module fileurl="file://$PROJECT_DIR$/configurationchangesdefault/configurationchangesdefault.iml" filepath="$PROJECT_DIR$/configurationchangesdefault/configurationchangesdefault.iml" />
       <module fileurl="file://$PROJECT_DIR$/customviews/customviews.iml" filepath="$PROJECT_DIR$/customviews/customviews.iml" />
       <module fileurl="file://$PROJECT_DIR$/demoapp/demoapp.iml" filepath="$PROJECT_DIR$/demoapp/demoapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragments/fragments.iml" filepath="$PROJECT_DIR$/fragments/fragments.iml" />
       <module fileurl="file://$PROJECT_DIR$/interactivitycommunication/interactivitycommunication.iml" filepath="$PROJECT_DIR$/interactivitycommunication/interactivitycommunication.iml" />
       <module fileurl="file://$PROJECT_DIR$/listview/listview.iml" filepath="$PROJECT_DIR$/listview/listview.iml" />
       <module fileurl="file://$PROJECT_DIR$/login/login.iml" filepath="$PROJECT_DIR$/login/login.iml" />
       <module fileurl="file://$PROJECT_DIR$/relativelayout/relativelayout.iml" filepath="$PROJECT_DIR$/relativelayout/relativelayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/samplemodule/samplemodule.iml" filepath="$PROJECT_DIR$/samplemodule/samplemodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simplevalueresources/simplevalueresources.iml" filepath="$PROJECT_DIR$/simplevalueresources/simplevalueresources.iml" />
       <module fileurl="file://$PROJECT_DIR$/statemanagement/statemanagement.iml" filepath="$PROJECT_DIR$/statemanagement/statemanagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vertxclient/vertxclient.iml" filepath="$PROJECT_DIR$/vertxclient/vertxclient.iml" />
       <module fileurl="file://$PROJECT_DIR$/viewanimations/viewanimations.iml" filepath="$PROJECT_DIR$/viewanimations/viewanimations.iml" />
       <module fileurl="file://$PROJECT_DIR$/weightedlayouts/weightedlayouts.iml" filepath="$PROJECT_DIR$/weightedlayouts/weightedlayouts.iml" />
     </modules>
