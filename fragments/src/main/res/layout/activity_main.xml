@@ -23,5 +23,5 @@
         android:layout_weight="0.2"
         class="com.melayer.fragments.OurFragment"
         android:id="@+id/fragmentOur"
-        android:layout_marginTop="15dp"/>
+        android:layout_marginTop="@dimen/littleMargin"/>
 </LinearLayout>
