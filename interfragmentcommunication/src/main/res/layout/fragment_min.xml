@@ -1,0 +1,23 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    tools:context="com.melayer.interfragmentcommunication.MinFragment"
+    android:gravity="center">
+
+
+    <Button
+        android:id="@+id/btnPoker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btnPoker"/>
+
+    <Button
+        android:id="@+id/btnRoullete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btnRoullete"/>
+
+</LinearLayout>
