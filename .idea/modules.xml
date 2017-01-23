@@ -21,6 +21,7 @@
       <module fileurl="file://$PROJECT_DIR$/samplemodule/samplemodule.iml" filepath="$PROJECT_DIR$/samplemodule/samplemodule.iml" />
       <module fileurl="file://$PROJECT_DIR$/simplevalueresources/simplevalueresources.iml" filepath="$PROJECT_DIR$/simplevalueresources/simplevalueresources.iml" />
       <module fileurl="file://$PROJECT_DIR$/statemanagement/statemanagement.iml" filepath="$PROJECT_DIR$/statemanagement/statemanagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toast/toast.iml" filepath="$PROJECT_DIR$/toast/toast.iml" />
       <module fileurl="file://$PROJECT_DIR$/vertxclient/vertxclient.iml" filepath="$PROJECT_DIR$/vertxclient/vertxclient.iml" />
       <module fileurl="file://$PROJECT_DIR$/viewanimations/viewanimations.iml" filepath="$PROJECT_DIR$/viewanimations/viewanimations.iml" />
       <module fileurl="file://$PROJECT_DIR$/weightedlayouts/weightedlayouts.iml" filepath="$PROJECT_DIR$/weightedlayouts/weightedlayouts.iml" />
