@@ -2,6 +2,7 @@ package com.melayer.toast;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.Gravity;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
@@ -26,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
         Button btn = new Button(this);
         btn.setText(getResources().getString(R.string.tstMsg));
         toast.setView(btn);
+        toast.setGravity(Gravity.CENTER, 10, 12);
         toast.show();
     }
 }
