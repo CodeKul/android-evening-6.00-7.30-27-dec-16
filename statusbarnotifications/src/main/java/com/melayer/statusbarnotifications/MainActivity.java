@@ -4,12 +4,11 @@ import android.app.Notification;
 import android.app.NotificationManager;
 import android.app.PendingIntent;
 import android.content.Intent;
-import android.os.SystemClock;
-import android.provider.Settings;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.app.NotificationCompat;
 import android.view.View;
+import android.widget.RemoteViews;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -40,6 +39,10 @@ public class MainActivity extends AppCompatActivity {
 
         PendingIntent pendingIntent = PendingIntent.getActivity(this, REQ_NEW, intent, PendingIntent.FLAG_UPDATE_CURRENT);
 
+        RemoteViews remoteViews = new RemoteViews(getPackageName(), R.layout.custom_notification);
+        remoteViews.setImageViewResource(R.id.imageView,R.mipmap.ic_launcher);
+        remoteViews.setTextViewText(R.id.textView, getResources().getString(R.string.app_name));
+
         notification =
         new NotificationCompat.Builder(this)
                 .setContentTitle(getResources().getString(R.string.title))
@@ -50,7 +53,10 @@ public class MainActivity extends AppCompatActivity {
                 .setDefaults(Notification.DEFAULT_ALL)
                 .setContentIntent(pendingIntent)
                 .setAutoCancel(true)
-                .setStyle(inStyle)
+                .setStyle(new NotificationCompat.DecoratedCustomViewStyle())
+                .addAction(R.mipmap.ic_launcher,"Action1", pendingIntent)
+                .setCustomContentView(remoteViews)
+                .setCustomBigContentView(remoteViews)
                 .build();
 
         NotificationManager manager = (NotificationManager) getSystemService(NOTIFICATION_SERVICE);
