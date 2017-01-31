@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Dialogs</string>
+    <string name="btnAlert">ALert</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btnDatePicker">Date Picker</string>
+    <string name="btnTimePicker">Time Piccker</string>
+    <string name="btnProgress">Progress</string>
+    <string name="btnCustom">Custom</string>
+    <string-array name="mobiles">
+        <item>Android</item>
+        <item>Apple</item>
+        <item>Rim</item>
+        <item>Symbian</item>
+    </string-array>
+</resources>
