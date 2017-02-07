@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.melayer.intentandintentfilters">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".NextActivity">
+            <intent-filter>
+                <action android:name="com.codekul.intent.action.NEXT" />
+                <action android:name="com.codekul.intent.action.NEXT_ONE" />
+                <action android:name="android.intent.action.DIAL" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="com.codekul.category.CAT" />
+                <category android:name="com.codekul.category.CAT5" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".SportsActivity">
+            <intent-filter>
+                <action android:name="com.codekul.intent.action.SPORTS" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="com.codekul.category.TENNIS" />
+                <category android:name="com.codekul.category.CARROM" />
+                <data android:scheme="tel"/>
+            </intent-filter>
+        </activity>
+    </application>
+
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+
+</manifest>
