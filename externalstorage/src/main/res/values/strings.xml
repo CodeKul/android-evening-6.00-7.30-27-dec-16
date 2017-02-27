@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">InternalStorage</string>
+    <string name="app_name">ExternalStorage</string>
     <string name="btnSave">Save</string>
     <string name="btnDisplay">Display</string>
     <string name="btnMore">More</string>
