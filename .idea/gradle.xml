@@ -33,6 +33,7 @@
             <option value="$PROJECT_DIR$/samplemodule" />
             <option value="$PROJECT_DIR$/sharedprefs" />
             <option value="$PROJECT_DIR$/simplevalueresources" />
+            <option value="$PROJECT_DIR$/sqlitedatabase" />
             <option value="$PROJECT_DIR$/statemanagement" />
             <option value="$PROJECT_DIR$/statusbarnotifications" />
             <option value="$PROJECT_DIR$/toast" />
