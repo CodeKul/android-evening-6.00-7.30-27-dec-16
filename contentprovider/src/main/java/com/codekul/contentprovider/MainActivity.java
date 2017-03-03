@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        readContacts();
+       readOurData();
     }
 
     private void readContacts() {
@@ -38,6 +38,30 @@ public class MainActivity extends AppCompatActivity {
             String name = cursor.getString(cursor.getColumnIndex(ContactsContract.CommonDataKinds.Phone.DISPLAY_NAME));
             String number = cursor.getString(cursor.getColumnIndex(ContactsContract.CommonDataKinds.Phone.NUMBER));
             dataSet.add(name + "\n" + number);
+        }
+
+        ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, dataSet);
+        ((ListView)findViewById(R.id.listContacts)).setAdapter(adapter);
+    }
+
+    private void readOurData() {
+        ArrayList<String> dataSet = new ArrayList<>();
+
+        ContentResolver resolver = getContentResolver();
+
+        Uri uri = Uri.parse("content://com.codekul.cutom.provider");
+        String[] projection = null;
+        String selection = null;
+        String[] selectionArgs = null;
+        String sortOrder = null;
+
+        Cursor cursor = resolver.query(uri, projection, selection, selectionArgs, sortOrder);
+
+        while (cursor.moveToNext()) {
+            Float lat = cursor.getFloat(cursor.getColumnIndex("lat"));
+            Float lng = cursor.getFloat(cursor.getColumnIndex("lng"));
+            String imei = cursor.getString(cursor.getColumnIndex("imei"));
+            dataSet.add(""+lat + ", " + lng +"\n"+imei);
         }
 
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, dataSet);
