@@ -1,0 +1,11 @@
+{
+  "name" : "android",
+  "tut" : {
+    "exp" : 8,
+    "sal" : 45.56
+  },
+  "langs" : [
+    "Java",
+    "Js"
+  ]
+}

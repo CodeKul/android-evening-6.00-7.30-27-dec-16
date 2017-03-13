@@ -27,6 +27,7 @@
             <option value="$PROJECT_DIR$/interactivitycommunication" />
             <option value="$PROJECT_DIR$/interfragmentcommunication" />
             <option value="$PROJECT_DIR$/internalstorage" />
+            <option value="$PROJECT_DIR$/jsonparsing" />
             <option value="$PROJECT_DIR$/listview" />
             <option value="$PROJECT_DIR$/login" />
             <option value="$PROJECT_DIR$/relativelayout" />
@@ -41,6 +42,7 @@
             <option value="$PROJECT_DIR$/toast" />
             <option value="$PROJECT_DIR$/vertxclient" />
             <option value="$PROJECT_DIR$/viewanimations" />
+            <option value="$PROJECT_DIR$/webservices" />
             <option value="$PROJECT_DIR$/weightedlayouts" />
           </set>
         </option>
