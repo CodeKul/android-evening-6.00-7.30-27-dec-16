@@ -51,6 +51,7 @@
             <option value="$PROJECT_DIR$/viewanimations" />
             <option value="$PROJECT_DIR$/webservices" />
             <option value="$PROJECT_DIR$/weightedlayouts" />
+            <option value="$PROJECT_DIR$/wifi" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
