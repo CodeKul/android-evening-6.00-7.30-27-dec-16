@@ -1,0 +1,7 @@
+#Wed Mar 22 19:02:49 IST 2017
+base.0=/home/aniruddha/codekul/codes/daily/dec/android-10-11.30-morning/MyApplication/scrollnesting/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_426048316ee17195a88d06537f1847564c6052db
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/aniruddha/codekul/codes/daily/dec/android-10-11.30-morning/MyApplication/scrollnesting/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ab38bcb12fc3baccaf17d6f4e66a87422b34aea5/classes.dex
+base.1=/home/aniruddha/codekul/codes/daily/dec/android-10-11.30-morning/MyApplication/scrollnesting/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ab38bcb12fc3baccaf17d6f4e66a87422b34aea5
+file.0=/home/aniruddha/codekul/codes/daily/dec/android-10-11.30-morning/MyApplication/scrollnesting/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_426048316ee17195a88d06537f1847564c6052db/classes.dex

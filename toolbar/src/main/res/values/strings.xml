@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToolBar</string>
+    <string name="action_settings">Settings</string>
+    <string name="actionCut">Cut</string>
+    <string name="cut">Cut</string>
+    <string name="btnNext">Next</string>
+    <string name="title_activity_my">MyActivity</string>
+</resources>

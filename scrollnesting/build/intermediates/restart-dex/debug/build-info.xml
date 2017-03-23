@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="24"
+    density="mdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="37561566357262"
+    token="4770191171988048414"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/home/aniruddha/codekul/codes/daily/dec/android-10-11.30-morning/MyApplication/scrollnesting/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
+
+    <build
+        timestamp="37365028685137"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/aniruddha/codekul/codes/daily/dec/android-10-11.30-morning/MyApplication/scrollnesting/build/outputs/apk/scrollnesting-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="37561566357262"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/aniruddha/codekul/codes/daily/dec/android-10-11.30-morning/MyApplication/scrollnesting/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+
+</instant-run>

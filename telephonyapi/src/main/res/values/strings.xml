@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TelephonyApi</string>
+    <string name="btnSend">Send</string>
+</resources>

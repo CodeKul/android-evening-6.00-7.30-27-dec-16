@@ -28,16 +28,20 @@
       <module fileurl="file://$PROJECT_DIR$/locationlisteners/locationlisteners.iml" filepath="$PROJECT_DIR$/locationlisteners/locationlisteners.iml" />
       <module fileurl="file://$PROJECT_DIR$/locationservices/locationservices.iml" filepath="$PROJECT_DIR$/locationservices/locationservices.iml" />
       <module fileurl="file://$PROJECT_DIR$/login/login.iml" filepath="$PROJECT_DIR$/login/login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/navigationdrawer/navigationdrawer.iml" filepath="$PROJECT_DIR$/navigationdrawer/navigationdrawer.iml" />
       <module fileurl="file://$PROJECT_DIR$/relativelayout/relativelayout.iml" filepath="$PROJECT_DIR$/relativelayout/relativelayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/rxapp/rxapp.iml" filepath="$PROJECT_DIR$/rxapp/rxapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/samplemodule/samplemodule.iml" filepath="$PROJECT_DIR$/samplemodule/samplemodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sensors/sensors.iml" filepath="$PROJECT_DIR$/sensors/sensors.iml" />
       <module fileurl="file://$PROJECT_DIR$/services/services.iml" filepath="$PROJECT_DIR$/services/services.iml" />
       <module fileurl="file://$PROJECT_DIR$/sharedprefs/sharedprefs.iml" filepath="$PROJECT_DIR$/sharedprefs/sharedprefs.iml" />
       <module fileurl="file://$PROJECT_DIR$/simplevalueresources/simplevalueresources.iml" filepath="$PROJECT_DIR$/simplevalueresources/simplevalueresources.iml" />
       <module fileurl="file://$PROJECT_DIR$/sqlitedatabase/sqlitedatabase.iml" filepath="$PROJECT_DIR$/sqlitedatabase/sqlitedatabase.iml" />
       <module fileurl="file://$PROJECT_DIR$/statemanagement/statemanagement.iml" filepath="$PROJECT_DIR$/statemanagement/statemanagement.iml" />
       <module fileurl="file://$PROJECT_DIR$/statusbarnotifications/statusbarnotifications.iml" filepath="$PROJECT_DIR$/statusbarnotifications/statusbarnotifications.iml" />
+      <module fileurl="file://$PROJECT_DIR$/telephonyapi/telephonyapi.iml" filepath="$PROJECT_DIR$/telephonyapi/telephonyapi.iml" />
       <module fileurl="file://$PROJECT_DIR$/toast/toast.iml" filepath="$PROJECT_DIR$/toast/toast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toolbar/toolbar.iml" filepath="$PROJECT_DIR$/toolbar/toolbar.iml" />
       <module fileurl="file://$PROJECT_DIR$/vertxclient/vertxclient.iml" filepath="$PROJECT_DIR$/vertxclient/vertxclient.iml" />
       <module fileurl="file://$PROJECT_DIR$/viewanimations/viewanimations.iml" filepath="$PROJECT_DIR$/viewanimations/viewanimations.iml" />
       <module fileurl="file://$PROJECT_DIR$/webservices/webservices.iml" filepath="$PROJECT_DIR$/webservices/webservices.iml" />
